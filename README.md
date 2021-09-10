@@ -10,7 +10,7 @@ By running a single command, you will get a production-ready Node.js app install
 Clone the repo:
 
 ```bash
-git clone --depth 1 https://github.com/markkos89/node-template.git
+git clone --depth 1 https://github.com/markkos89/nodejs-template.git
 cd node-template
 npx rimraf ./.git
 ```
